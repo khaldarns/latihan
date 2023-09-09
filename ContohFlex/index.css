@@ -1,0 +1,13 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.flex-item {
+    background-color: #f2f2f2;
+    padding: 20px;
+    flex-basis: calc(35% - 100px);
+    margin: 10px;
+    box-sizing: border-box;
+}

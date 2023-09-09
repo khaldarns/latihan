@@ -1,0 +1,18 @@
+.responsive-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.responsive-item {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+    .responsive-item {
+        margin-bottom: 50px;
+        background-color: rgb(174, 174, 255);
+    }
+}

@@ -1,0 +1,2 @@
+jika kalian pengen lihat responsive nya
+bisa via inspect dan kalian tinggal ganti ke responsive saja seperti di video yg saya bikin kemaren
